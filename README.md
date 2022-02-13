@@ -1,4 +1,4 @@
-my_list = [Python, Postgres SQL, MS SQL, Tableau]
+my_list = [Python, SQL, Tableau, Excel]
 - 👋 Hi, I’m @REPAshka (Timur)
 - 👀 I’m interested in my_list, BMX-racing, music.
 - 🌱 I’m currently learning my_list
